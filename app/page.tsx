@@ -273,14 +273,14 @@ export default function Page() {
 
           <div className="mt-8 space-y-2 text-lg">
             <p>Teléfono: +54 9 280 5060792 </p>  
-                           +54 9 11 5881-9197 
-            <p>Email: contacto@pmpowermarine.com</p>
+                           +54 9 11 54292708
+            <p>Email: tecnica@pmsystem.com.ar</p>
             <p>Ubicación: Argentina</p>
           </div>
 
           <div className="mt-8">
             <a
-              href="https://wa.me/ +5491158819197" 
+              href="https://wa.me/5491154292708" 
               className="inline-flex rounded-2xl bg-cyan-500 px-6 py-3 font-semibold text-slate-950 transition hover:bg-cyan-400"
             >
               WhatsApp

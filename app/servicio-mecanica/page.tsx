@@ -264,7 +264,7 @@ export default function ServicioMecanicaPage() {
             <p>Teléfono: +54 9 280 5060792
                     +54 9 11 5881-9197
             </p>
-            <p>Email: contacto@pmpowermarine.com</p>
+            <p>Email: tecnica@pmsystem.com.ar</p>
             <p>Ubicación: Argentina</p>
           </div>
 

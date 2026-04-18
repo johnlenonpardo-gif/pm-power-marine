@@ -202,7 +202,7 @@ export default function VibracionesPage() {
         <h2 className="text-3xl font-bold">Contacto</h2>
 
         <a
-          href="https://wa.me/549XXXXXXXXXX"
+          href="https://wa.me/5491154292708"
           className="mt-6 inline-block bg-cyan-500 text-black px-6 py-3 rounded-xl"
         >
           WhatsApp
