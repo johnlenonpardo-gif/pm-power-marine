@@ -64,11 +64,11 @@ export default function Page() {
             </a>
             <a href="#contacto" className="transition hover:text-cyan-600">
               Contacto
+              <meta name="google-site-verification" content="tU-CRpdrQ4mIJpz1uFN2mFzSuubW3ySSw8UL9cH4mbw" />
             </a>
           </nav>
         </div>
       </header>
-
       <section
         id="inicio"
         className="relative h-[78vh] min-h-[600px] overflow-hidden"
